@@ -4,3 +4,7 @@ Software Carpentry Installer
 Anaconda
 Git
 Sqlite
+
+
+--- you also need Pandas!
+
